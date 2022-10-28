@@ -1,0 +1,22 @@
+.center{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 15px ;
+    width: 100%;
+  }
+
+  .Titulos{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 70px ;
+    margin-left: 15px;
+    width: 100%;
+  }
+  .logo{
+    width: 135px;
+    align-items: center;
+  }

@@ -1,0 +1,9 @@
+div{
+    text-align: center;
+}
+div h2{
+    text-align: center;
+    background-color: transparent;
+    border: 0 transparent;
+    font-size: 100px;
+}
